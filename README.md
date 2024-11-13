@@ -1,4 +1,4 @@
-
+![Screenshot 2024-11-13 084657](https://github.com/user-attachments/assets/363ba315-89fb-49df-8453-c04496900a84)
 # Real-Time Chat Application
 
 A user chat application with real-time message updates, user authentication. Built using Node.js and Socket.io for the backend, and HTML, CSS, and TailwindCSS for the frontend.
@@ -11,6 +11,9 @@ A user chat application with real-time message updates, user authentication. Bui
 - User Authentication: Secure login and registration with JWT (JSON Web Tokens) for managing user sessions.
 - State Management: Smooth user interactions and UI updates using state management principles.
 - Backend Integration: Real-time communication handled by a Node.js server, powered by Socket.io.
+
+### Screenshots
+![Screenshot 2024-11-13 084657](https://github.com/user-attachments/assets/681f0713-40f0-4adf-8cc5-df2c2bf5983d)
 
 ---
 
